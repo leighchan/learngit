@@ -5,3 +5,4 @@ git tracks changes of files.
 my fucking boss doesn't want to give me a raise.
 this is gonna be a test.
 here we go on with this file.
+then I add a new branch.
