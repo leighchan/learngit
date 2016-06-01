@@ -7,3 +7,4 @@ this is gonna be a test.
 here we go on with this file.
 then I add a new branch and thee.
 here is another test on branch.
+try not using fast-forward.
