@@ -8,3 +8,4 @@ here we go on with this file.
 then I add a new branch and thee.
 here is another test on branch.
 try not using fast-forward.
+getting to know how to use git.
